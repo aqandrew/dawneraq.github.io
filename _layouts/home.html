@@ -3,24 +3,46 @@ layout: default
 ---
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-4">
+				<img src="https://avatars1.githubusercontent.com/u/9038965" class="avatar">
+			</div>
+			<div class="col-md-8">
+				<p>RPI junior, software/web developer, dabbling designer, (bass) guitarhead, amateur cook/baker.</p>
+				<ul class="social-links">
+					<li>
+						dawneraq [AT] gmail [DOT] com
+					</li>
+					<li>
+						<a href="https://github.com/dawneraq"><i class="fa fa-github fa-lg" aria-hidden="true"></i> dawneraq</a>
+					</li>
+					<li>
+						<a href="https://www.linkedin.com/in/dawneraq"><i class="fa fa-linkedin" aria-hidden="true"></i> LinkedIn</a>
+					</li>
+				</ul>
+			</div>
+		</div> 
+	</div>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+	<h1 class="page-heading">Posts</h1>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
-        <h3>
-          {{ post.tagline }}
-        </h3>
-        {{ post.excerpt }}
-      </li>
-    {% endfor %}
-  </ul>
+	<ul class="post-list">
+		{% for post in site.posts %}
+			<li>
+				<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-  <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p> -->
+				<h2>
+					<a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+				</h2>
+				<h3>
+					{{ post.tagline }}
+				</h3>
+				{{ post.excerpt }}
+			</li>
+		{% endfor %}
+	</ul>
+
+	<!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p> -->
 
 </div>

@@ -1,18 +1,58 @@
 ---
 ---
 
+$please-viridian: rgb(0, 255, 174);
+$please-midnight-blue: rgb(22, 22, 76);
+
+@import 'bootstrap';
+@import 'font-awesome';
+
+body {
+	font-size: 16px;
+	overflow-x: hidden;
+}
+
+a {
+	&:hover {
+		cursor: pointer;
+	}	
+}
+
+.wrapper {
+	max-width: calc(900px - (30px * 2));
+	max-width: -webkit-calc(900px - (30px * 2));
+}
+
 .site-title:hover {
 	text-decoration: none;
 }
 
 .site-header {
-	border-top: none;
+	border: none;
+	background: linear-gradient(30deg, $please-viridian, $please-midnight-blue);
+}
+
+.site-title, .site-title:visited, .site-nav .page-link {
+	color: white;
+}
+
+.avatar {
+	border-radius: 5px;
+}
+
+.social-links {
+	list-style-type: none;
+	margin-left: 0;
+}
+
+h1 {
+	font-size: xx-large !important;
 }
 
 .tagline {
 	font-size: large;
 }
 
-.post-content {
-	text-align: justify;
+.container {
+	width: 100%;
 }
