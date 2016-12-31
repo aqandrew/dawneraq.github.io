@@ -11,15 +11,15 @@ tagline: Disillusionment can be fun!
 
 I have [Rachel Smith][parallax-codepen] to thank for much of the code; namely animating Squidward and the fake posts using CSS.
 
-[The original project this was based on][your-home], in which I wrote JavaScript to parse an XML file for the same 5 post data forever whenever the bottom of the page is reached, was solely a style-for-style ripoff of Facebook's homepage. Before settling on the page's current functionality, I'd toyed with the ideas of randomly inserting [Zalgo text][zalgo-text] the farther the user scrolls, or a similar effect with faces. My scattered college brain did not make adequate time for those things.
+[The original project this was based on][your-home], a piece of 'net art' in which I wrote JavaScript to parse an XML file for the same 5 post data forever whenever the bottom of the page is reached, was solely a style-for-style ripoff of Facebook's homepage. Before settling on the page's current functionality, I'd toyed with the ideas of randomly inserting [Zalgo text][zalgo-text] the farther the user scrolls, or a similar effect with faces. My scattered college brain did not make adequate time for those things.
 
-Features I may implement in the future include:
+### Features to implemented in the future
 - Updating the Notifications icon in the navbar according to the notification number displayed in the page title
 - Those suggested by my professor and TA:
   - a futile but seemingly valuable 'score' controlled by Like and Comment buttons on each post
   - high-pitched screeching that increases in pitch according to the scroll position
 
-One day (i.e. when the page disappears upon graduation) I'll implement this in such a way that doesn't eat so much processing power, perhaps with linear interpolation.
+One day (probably when the page disappears upon graduation) I'll implement this in such a way that doesn't eat so much processing power, perhaps with linear interpolation.
 
 In short, there's effectively no difference between mindlessly scrolling through sensational "news" (which may or may not be factual) and falling through a surrealist nightmare.
 
