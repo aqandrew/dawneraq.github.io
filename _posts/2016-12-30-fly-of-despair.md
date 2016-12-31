@@ -13,7 +13,7 @@ I have [Rachel Smith][parallax-codepen] to thank for much of the code; namely an
 
 [The original project this was based on][your-home], a piece of 'net art' in which I wrote JavaScript to parse an XML file for the same 5 post data forever whenever the bottom of the page is reached, was solely a style-for-style ripoff of Facebook's homepage. Before settling on the page's current functionality, I'd toyed with the ideas of randomly inserting [Zalgo text][zalgo-text] the farther the user scrolls, or a similar effect with faces. My scattered college brain did not make adequate time for those things.
 
-### Features to implemented in the future
+### Features to implement in the future
 - Updating the Notifications icon in the navbar according to the notification number displayed in the page title
 - Those suggested by my professor and TA:
   - a futile but seemingly valuable 'score' controlled by Like and Comment buttons on each post
