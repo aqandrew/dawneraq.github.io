@@ -16,7 +16,8 @@
 title: Andrew Aquino
 #email: dawneraq@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "dawneraq.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+site_name: dawneraq.github.io
 #twitter_username: jekyllrb
 #github_username: dawneraq
 
