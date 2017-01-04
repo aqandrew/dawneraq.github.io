@@ -1,8 +1,12 @@
 ---
 ---
 
-$please-viridian: rgb(0, 255, 174);
-$please-midnight-blue: rgb(22, 22, 76);
+$theme1: rgb(0, 255, 174); // please > viridian
+$theme2: rgb(22, 22, 76); // please > midnight blue
+$background: #eee;
+$text-color: #000;
+$link-color: #3c81dc;
+$link-visited: #2c5d9d;
 
 // @import 'bootstrap';
 // @import 'font-awesome';
@@ -10,17 +14,25 @@ $please-midnight-blue: rgb(22, 22, 76);
 body {
 	font-size: 16px;
 	overflow-x: hidden;
+	background: $background;
+	color: $text-color;
 }
 
 a {
+	color: $link-color;
+
 	&:hover {
 		cursor: pointer;
-	}	
+	}
+
+	&:visited {
+		color: $link-visited;
+	}
 }
 
 .wrapper {
-	max-width: calc(900px - (30px * 2));
-	max-width: -webkit-calc(900px - (30px * 2));
+	max-width: calc(800px - (30px * 2));
+	max-width: -webkit-calc(800px - (30px * 2));
 }
 
 .site-title:hover {
@@ -29,7 +41,7 @@ a {
 
 .site-header {
 	border: none;
-	background: linear-gradient(30deg, $please-viridian, $please-midnight-blue);
+	background: linear-gradient(30deg, $theme1, $theme2);
 }
 
 .site-title, .site-title:visited, .site-nav .page-link {
@@ -38,6 +50,10 @@ a {
 
 .avatar {
 	border-radius: 5px;
+}
+
+.home p {
+	margin-bottom: 2em;
 }
 
 .social-links {
@@ -51,6 +67,16 @@ h1 {
 
 .tagline {
 	font-size: large;
+}
+
+.post-list {
+	h2, h4 {
+		margin-top: 10px;
+	}
+}
+
+.post-meta {
+	font-size: 16px;
 }
 
 .container {
