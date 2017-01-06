@@ -30,6 +30,10 @@ a {
 	}
 }
 
+p {
+	text-align: justify;
+}
+
 .wrapper {
 	max-width: calc(800px - (30px * 2));
 	max-width: -webkit-calc(800px - (30px * 2));
