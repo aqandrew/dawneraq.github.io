@@ -30,6 +30,12 @@ a {
 	}
 }
 
+#resume-button {
+	&:visited {
+		color: white;
+	}
+}
+
 p {
 	text-align: justify;
 }
