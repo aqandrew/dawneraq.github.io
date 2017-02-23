@@ -13,8 +13,9 @@ layout: compress
     <meta name=author content="{{ site.name }}">
 
     {% seo %}
-    
-    {% include favicon.html %}
+
+    <!-- {% include favicon.html %} TODO add favicons for different devices -->
+    <link rel="icon" type="image/png" href="{{ site.url }}/assets/images/favicon/favicon.ico"/>
 
     <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}">
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.url }}{{ "/feed.xml" }}" />
