@@ -7,14 +7,14 @@ description: Sometimes I tweet about stuff
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
-picture: assets/images/profile.jpg
+external-image: true
+picture: https://en.gravatar.com/userimage/99495981/5aa15882e728c60f8dedca3bdc3109e7?size=280
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-external: false
+resume-url: assets/resume/Andrew Aquino Resume.pdf
 
 url: https://dawneraq.github.io
 
@@ -36,12 +36,12 @@ permalink: /:title/
 # facebook: myfacebook
 # twitter: mytwitter
 # google: mygoogle
-# instagram: myinstagram
+instagram: aqandrew
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: dawneraq
 # youtube: myyoutube
-# spotify: myspotify
-github: mygithub
+spotify: 12169576475
+github: dawneraq
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
