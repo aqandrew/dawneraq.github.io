@@ -1,9 +1,9 @@
 # main text of home
 name: Andrew Aquino
-bio: RPI junior, software/web developer, dabbling designer, (bass) guitarhead, cook/baker.
+bio: Computer Science junior @ RPI, web developer, dabbling designer, (bass) guitarhead, cook/baker.
 
 # twitter summary info
-description: Sometimes I tweet about stuff
+# description: Sometimes I tweet about stuff
 
 # if it's an external image, update below for true
 # better with square images
@@ -39,7 +39,7 @@ linkedin: dawneraq
 facebook: dawneraq
 spotify: 12169576475
 instagram: aqandrew
-# twitter: mytwitter
+twitter: aqandrew
 # google: mygoogle
 # youtube: myyoutube
 # stackoverflow: 7044681/mystackoverflow
@@ -47,18 +47,12 @@ instagram: aqandrew
 # vimeo: myvimeo
 
 # authors:
-#     johndoe:
-#         name: John Doe
-#         bio: A Man who travels the world eating noodles
-#         external-image: false
-#         picture: assets/images/profile.jpg
-#         twitter: johndoe
-#     jamesfoster:
-#         name: James Foster
-#         bio: A Man who develops software with coffee
-#         external-image: false
-#         picture: assets/images/james.jpg
-#         twitter: jamesfoster
+#     andrewaquino:
+#         name: Andrew Aquino
+#         bio: RPI junior, software/web developer, dabbling designer, (bass) guitarhead, cook/baker.
+#         external-image: true
+#         picture: https://en.gravatar.com/userimage/99495981/5aa15882e728c60f8dedca3bdc3109e7?size=280
+#         twitter: aqandrew
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
