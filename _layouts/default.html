@@ -12,7 +12,10 @@ layout: compress
     <meta name=description content="{{ site.bio }}">
     <meta name=author content="{{ site.name }}">
 
-    {% seo %}
+    {% seo title=false %}
+    <title>
+      {% if page.title != 'Home' %}{{ page.title }} - {% endif %}{{ site.name }}
+    </title>
 
     <!-- {% include favicon.html %} TODO add favicons for different devices -->
     <link rel="icon" type="image/png" href="{{ site.url }}/assets/images/favicon/favicon.ico"/>
