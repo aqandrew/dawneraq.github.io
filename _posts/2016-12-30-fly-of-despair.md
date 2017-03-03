@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Fly of Despair"
-date:   2016-12-30 23:24:00 -0800
-categories: school
+projects: true
+tag:
+- art
 tagline: Disillusionment can be fun!
 ---
 [Here's][fly-of-despair] a little something I put together for my Media Studio: Imaging final. It's pretty buggy, looks terrible on phone screens, and will make your browser poop itself if you scroll too far down the rabbit hole--but I'm backing down from optimizing it for now because it's already pretty entertaining. I hope that you get a kick out of it and that the theme isn't too hard to discern.
