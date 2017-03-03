@@ -90,3 +90,11 @@ gems:
 
 jekyll-mentions:
     base_url: https://github.com
+
+# Default Front Matter values
+defaults:
+  -
+    scope:
+      path: "posts"
+    values:
+      external-image: false

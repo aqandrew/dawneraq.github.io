@@ -3,7 +3,11 @@ layout: page
 ---
 
 {% if post.image %}
-  <meta property="og:image" content="{{ post.image }}">  
+  {% if post.external-image %}
+    <meta property="og:image" content="{{ post.image }}">
+  {% else %}
+    <meta property="og:image" content="{{ site.url }}{{ post.image }}">  
+  {% endif %}
 {% else %}
   <meta property="og:image" content="{{ page.image }}">
 {% endif %}
