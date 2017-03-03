@@ -4,6 +4,7 @@ title:  "Attachment Is the Root of All Suffering"
 projects: true
 tag:
 - art
+image: /assets/images/attachment-rgb.jpg
 ---
 
 <div id="attachment-suffering-toolbar" class="osd-toolbar"></div>
