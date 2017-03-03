@@ -2,14 +2,14 @@
 layout: page
 ---
 
-{% if page.image %}
-  <meta property="og:image" content="{{ post.image }}">
-
-  {% if page.headerImage %}
-    <img class="title-image" src="{{ page.image }}" alt="{{ page.title }}">
-  {% endif %}
+{% if post.image %}
+  <meta property="og:image" content="{{ post.image }}">  
 {% else %}
   <meta property="og:image" content="{{ page.image }}">
+{% endif %}
+
+{% if page.image and page.headerImage %}
+  <img class="title-image" src="{{ page.image }}" alt="{{ page.title }}">
 {% endif %}
 
 <h1 class="title">{{ page.title }}</h1>
