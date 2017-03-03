@@ -43,6 +43,7 @@ Shout-outs to
   - puppies
   - The Wave, AZ
   - giant snails
+  - horses
   - the Sun and the Moon
   - roses and peaches
   - bismuth
