@@ -14,7 +14,7 @@ image: /assets/images/attachment-rgb-thumbnail.jpg
     var viewer = OpenSeadragon({
         id: "attachment-suffering",
         prefixUrl: "/assets/js/openseadragon/images/",
-        tileSources: "/assets/images/attachment-rgb.dzi",
+        tileSources: "https://raw.githubusercontent.com/dawneraq/gh-pages-resources/master/attachment-rgb.dzi",
         showNavigator: true,
         toolbar: "attachment-suffering-toolbar"
     });
