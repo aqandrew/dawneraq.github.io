@@ -4,6 +4,8 @@ title: "Rush Calendar"
 projects: true
 tag:
 - design
+external-image: true
+image: https://raw.githubusercontent.com/dawneraq/gh-pages-resources/master/calendar-thumbnail.png
 ---
 
 <!-- TODO link calendar thumbnail in Front Matter for Open Graph -->
@@ -39,4 +41,4 @@ My Adobe Illustrator lobe began to atrophy immediately after submitting our vect
 
 Ideally, future Marketing Chairmen will be able input the current semester, its Rush start/end dates, names/dates/times coordinated with their respective Events Chairmen, and the relevant text will be beautifully inserted into the grid, corresponding to days of the week.
 
-Is such a task worth writing a script to automate? Probably, since not everyone can be bothered to ~~pirate~~ shell out for the Adobe Creative Suite. But realistically speaking, typesetting the malleable text after everything's been decided would only take about half an hour each semester. So for now I'll continue to focus my efforts on the Digital Brother Boards and chapter website. Stay tuned!
+Is such a task worth writing a script to automate? Probably, since not everyone can be bothered to ~~pirate~~ shell out for the Adobe Creative Suite. But realistically speaking, typesetting the malleable text after everything's been decided would take no more than 15 minutes each semester. So for now I'll continue to focus my efforts on the Digital Brother Boards and chapter website. Stay tuned!
