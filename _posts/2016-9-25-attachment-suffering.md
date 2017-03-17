@@ -26,7 +26,7 @@ It was an effective exercise in learning how to use Photoshop, possibly because 
 
 Try zooming into the image above! The viewer is [OpenSeadragon](https://openseadragon.github.io/), a nifty open-source JavaScript-only zoomable image viewer that's pretty easy to set up.
 
-Shout-outs to
+## Shout-outs to
 - [@tremulant_](https://www.instagram.com/tremulant_/)
 - [Fugue](https://fugue.bandcamp.com/album/siblings-ep)
 - The Alhambra
