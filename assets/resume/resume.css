@@ -65,8 +65,13 @@ h3 {
       content: "\a";
       white-space: pre; }
 
-#current-address {
+a {
+  color: blue; }
+
+.address {
   float: right; }
+  .address-permanent {
+    padding-right: 1em; }
 
 address {
   font-style: normal; }

@@ -1,5 +1,6 @@
 $newline: '\A';
 
+// For testing PDF formatting
 @media print {
 	body {
 		width: 8.5in;
@@ -92,8 +93,16 @@ h3 {
 	}
 }
 
-#current-address {
+a {
+	color: blue;
+}
+
+.address {
 	float: right;
+
+	&-permanent {
+		padding-right: 1em;
+	}
 }
 
 address {
