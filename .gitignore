@@ -1,4 +1,4 @@
 _site/
 .sass-cache/
 .jekyll-metadata
-assets/*.css*
+assets/resume/*.css*
