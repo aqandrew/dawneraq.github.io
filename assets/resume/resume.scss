@@ -29,6 +29,7 @@ section {
 
 		& > li > ul {
 			list-style-type: disc;
+			padding-left: 2em;
 
 			& > li:not(.date) {
 				max-width: 79%;
@@ -36,6 +37,7 @@ section {
 
 				& > ul {
 					list-style-type: circle;
+					padding-left: 2em;
 				}
 			}
 		}
@@ -79,7 +81,7 @@ h3 {
 
 #main-contact-info {
 	float: left;
-    padding: 0em 1em;
+  padding: 0 0 0 1em;
 	margin: 0;
 
 	& > li {
@@ -109,7 +111,7 @@ address {
 	font-style: normal;
 }
 
-.position-held, .project-name {
+.position-held, .project-name, .location {
 	&:before {
 		content: ' | ';
 	}
