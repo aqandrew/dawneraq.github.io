@@ -76,4 +76,10 @@
             <svg class="icon icon-vimeo"><use xlink:href="#icon-vimeo"></use></svg>
         </a>
     {% endif %}
+
+    {% if site.flickr %}
+        <a class="link" data-title="flickr.com/photos/{{ site.flickr }}" href="https://www.flickr.com/photos/{{ site.flickr }}" target="_blank">
+            <svg class="icon icon-flickr"><use xlink:href="#icon-flickr"></use></svg>
+        </a>
+    {% endif %}
 </div>
