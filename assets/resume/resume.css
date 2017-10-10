@@ -19,12 +19,14 @@ section {
     margin-top: 0.3em;
     margin-bottom: 0.7em; }
     section > ul > li > ul {
-      list-style-type: disc; }
+      list-style-type: disc;
+      padding-left: 2em; }
       section > ul > li > ul > li:not(.date) {
-        max-width: 79%;
+        max-width: 80%;
         text-align: justify; }
         section > ul > li > ul > li:not(.date) > ul {
-          list-style-type: circle; }
+          list-style-type: circle;
+          padding-left: 2em; }
 
 h1 {
   font-variant: small-caps;
@@ -56,7 +58,7 @@ h3 {
 
 #main-contact-info {
   float: left;
-  padding: 0em 1em;
+  padding: 0 0 0 1em;
   margin: 0; }
   #main-contact-info > li {
     display: inline;
@@ -76,7 +78,7 @@ a {
 address {
   font-style: normal; }
 
-.position-held:before, .project-name:before {
+.position-held:before, .project-name:before, .location:before {
   content: ' | '; }
 
 #education {
