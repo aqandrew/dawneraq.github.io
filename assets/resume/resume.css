@@ -11,8 +11,7 @@ body {
 section {
   width: 100%;
   display: inline-block;
-  vertical-align: top;
-  margin-bottom: 1em; }
+  vertical-align: top; }
   section > ul {
     list-style-type: none;
     padding-left: 0;
