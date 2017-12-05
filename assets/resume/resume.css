@@ -16,7 +16,7 @@ section {
     list-style-type: none;
     padding-left: 0;
     margin-top: 0.3em;
-    margin-bottom: 0.7em; }
+    margin-bottom: 0.3em; }
     section > ul > li > ul {
       list-style-type: disc;
       padding-left: 2em; }
