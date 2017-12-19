@@ -3,6 +3,7 @@ layout: post
 title: "Rush Calendar"
 projects: true
 tag:
+- TEP
 - design
 external-image: true
 image: https://raw.githubusercontent.com/dawneraq/gh-pages-resources/master/calendar-thumbnail.png
