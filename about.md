@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-![Profile Image]({{ site.picture }})
+![Profile Image]({{ site.picture }}){: class="circle-image" }
 
 Born in Los Gatos, raised in Las Vegas, studying in Troy.
 
