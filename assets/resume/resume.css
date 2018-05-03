@@ -21,7 +21,7 @@ section {
       list-style-type: disc;
       padding-left: 2em; }
       section > ul > li > ul > li:not(.date) {
-        max-width: 80%;
+        max-width: 77%;
         text-align: justify; }
         section > ul > li > ul > li:not(.date) > ul {
           list-style-type: circle;
