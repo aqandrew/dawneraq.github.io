@@ -4,7 +4,10 @@ layout: page
 ---
 ![Profile Image]({{ site.picture }}){: class="circle-image" }
 
-Born in Los Gatos, raised in Las Vegas, studying in Troy.
+- &#128118;&#127997; Born in Los Gatos
+- &#128102;&#127997; Raised in Las Vegas
+- &#127891; Studied in Troy
+- &#127774; Living in Long Beach
 
 In addition to the stuff listed in the header, I enjoy:
 - weightlifting
