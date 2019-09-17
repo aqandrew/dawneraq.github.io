@@ -1,6 +1,6 @@
 # main text of home
 name: Andrew Aquino
-bio: UX consultant, web developer, dabbling designer, (bass) guitar nerd, cook/baker.
+bio: UX designer + front-end web developer
 
 # twitter summary info
 # description: Sometimes I tweet about stuff
@@ -32,10 +32,10 @@ analytics-google: 'UA-92780960-1'
 email: dawneraq@gmail.com
 github: dawneraq
 linkedin: dawneraq
-facebook: dawneraq
-spotify: 12169576475
-instagram: aqandrew
-flickr: dawneraq
+# facebook: dawneraq
+# spotify: 12169576475
+# instagram: aqandrew
+# flickr: dawneraq
 # twitter: aqandrew
 # google: mygoogle
 # youtube: myyoutube
