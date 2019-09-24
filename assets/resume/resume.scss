@@ -100,10 +100,6 @@ a {
 	color: blue;
 }
 
-address {
-	font-style: normal;
-}
-
 .position-held, .project-name, .location {
 	&:before {
 		content: ' | ';
