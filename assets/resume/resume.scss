@@ -12,14 +12,14 @@ $newline: '\A';
 body {
 	font-family: 'Nunito Sans', sans-serif;
 	font-size: 9.5pt;
-	padding: 0 0.25in 0.25in;
+	padding: 0.1in 0.25in 0.25in;
 }
 
 section {
 	width: 100%;
 	display: inline-block;
 	vertical-align: top;
-	// margin-bottom: 0.05em;
+	margin-bottom: 2em;
 
 	& > ul {
 		list-style-type: none;
@@ -59,7 +59,7 @@ h2, h3, h4 {
 
 h2 {
 	margin-bottom: 0;
-	font-size: 11pt;
+	font-size: 16pt;
 
 	&:nth-of-type(n+1) {
 		margin-top: 0;
@@ -74,7 +74,6 @@ h3 {
 #contact-info {
 	width: 100%;
 	border-bottom: 2px solid black;
-	margin-bottom: 0.5em;
 
 	display: flex;
 	align-items: center;
@@ -126,7 +125,7 @@ h4 {
 	font-size: 10pt;
 }
 
-#academic-honors {
+#activities-honors {
 	width: 44%;
 }
 
