@@ -12,8 +12,10 @@ tagline: foo
 
 In my finest piece of double-dipped semester projects to date, I present Lune, a Google Cardboard viewer for a fully illuminated 3D model of the Moon.
 
-- Computer Graphics: Something at least vaguely related to computer graphics? Check.
-- Earth & Sky: An original piece of work that addresses an astronomical theme in a creative way? Check.
+Semester project requirements:
+
+- ☑️ **Computer Graphics:** Something at least vaguely related to computer graphics?
+- ️️️☑️️ **Earth & Sky:** An original piece of work that addresses an astronomical theme in a creative way
 
 The transcript of the video above is [here](https://github.com/dawneraq/Lune/blob/master/CG-presentation.md), for more of an overview. Basically, I wanted to play around with the free Cardboard I got from my summer internship at AT&T. [Chrome Experiments](https://vr.chromeexperiments.com/) has some nice starter code that provides device orientation controls for the 3D scene's camera, and a split screen rendering with barrel distortion that'll make your scene Cardboard compatible.
 
