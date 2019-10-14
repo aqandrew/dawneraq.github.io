@@ -5,11 +5,11 @@ projects: true
 tag:
 - work
 ---
-Shortly before my first internship ended, a software architect under whom I worked named Grant Ricklefs told me,
+Shortly before my first internship ended, a software architect under whom I worked told me,
 
 >Being a software engineer a little funny. It's not like being a building architect or a carpenter, where you can drive by a house and tell your kid, "I built that!"
 >
->With websites it's like, "Well I didn't build this, but I fixed a lot of bugs in it."
+>With websites it's more like, "Well I didn't build this, but I fixed a lot of bugs in it."
 
 ### I got a great opportunity last semester to break the mold and build an entire website for a client.
 
