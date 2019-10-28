@@ -4,7 +4,6 @@ title:  "Lune"
 projects: true
 tag:
 - school
-- ThreeJS
 tagline: foo
 ---
 <iframe src="https://player.vimeo.com/video/246562417" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
