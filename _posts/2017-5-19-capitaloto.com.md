@@ -32,7 +32,47 @@ Five months later, I'd rebuilt Capital Otolaryngology's website from the ground 
 
 ## Process
 
-TODO import from notes
+### Site
+
+![site map](/assets/images/site_map.jpeg)
+<figcaption class="caption">The site requirements, as defined by one of the practice administrators.</figcaption>
+
+Overall, the content was to remain mostly the same, just with a more modern format. Other than the sprawling copy in the Patient Learning section, the information architecture was pretty simple.
+
+![homepage mockup](/assets/images/homepage_mockup.jpeg)
+<figcaption class="caption">The homepage mockup I was handed.</figcaption>
+
+With the new site, CapitalOto wanted to make sure that it was easy to navigate to the practice's Patient Portal, where patients and doctors exchange medical data like checkup results and suggestions for followup procedures. The existing site had no such link.
+
+[![homepage medium-fi mockup](/assets/images/homepage_medium_fi_mockup.png)](https://app.moqups.com/4wHHArhWuk/view/page/a71fc1274)
+
+Because I hadn't yet learned of the existence of web design tools like Sketch and Figma at the time, I set about creating interactive wireframes for the new site with a free tool called [Moqups](https://moqups.com/). The free version is rather limited, but it got the job done. You can still view the wireframes by clicking the image above.
+
+### Logo
+
+![ENT logos](/assets/images/ent_logos.png)
+
+In general, there seem to be only two possible directions when it comes to a logo for an ENT practice:
+
+1. the eponymous body parts, disembodied and reassembled
+2. a cross-section of the human head, optionally highlighting said parts
+
+![CapitalOto disemboided parts logo](/assets/images/crog_logo_old.jpeg)
+
+CapitalOto was no exception to either rule. Pictured is one of their pre-2012 logos, printed on their stationery. 
+
+One logo idea put forth by the practice was a map of the Capital Region, with stars indicating the practice's three locations. That concept might given the wrong impression that Capital Region Otolaryngology *only* serves patients within that region&mdash;some patients reside in other areas like Vermont.
+
+![some logo ideas](/assets/images/crog_logo_ideas.jpeg)
+
+![more logo ideas](/assets/images/more_logo_ideas.png)
+
+Some "harsh light portrait" ideas I sketched that are meant to emphasize the ear, nose, and throat. My client contact furrowed her eyebrows when I showed them to her. Not because they're kinda creepy, but because it was hard for her to parse a human face in some of them.
+
+![an existing circle logo](https://static.wixstatic.com/media/6fa9e9_5aece613965a48ee933f66ca5b4c8ec0~mv2.gif)
+![another existing circle logo](https://cdn.websites.hibu.com/a86e23059d774356be073b8b82a67804/dms3rep/multi/mobile/logo01.png)
+
+The concept we ended up going with was to highlight the ear, nose, and throat of a head's silhouette using colored circles. Given the existing logo, it seemed like the next logical step. Yes, it's been done before. But it's a little more clean and unique than some of the examples I found online&mdash;due in no small part to some anatomy advice from one of the doctors.
 
 ## Final deliverables
 
@@ -50,14 +90,15 @@ TODO import from notes
 ### On the design side
 
 - Regarding the new logo: client-designer disagreements (and stubornness, on either side) are an inescapable part of the visual design process. Some visual abstraction that makes sense to you may not read the same to someone else.
-- Free tools that let you create interactive wireframes of webpages must be a closely guarded industry secret. [Moqups](https://moqups.com/) isn't bad though.
-- Content management for a website that hasn't been updated in a while is its own can of worms. Its roadblocks may include an inability to take new high-resolution photos on short notice, or the delicate balancing act between brevity and necessity for large bodies of text.
+- ~~Free tools that let you create interactive wireframes of webpages must be a closely guarded industry secret.~~
+  - Figma first released in September of 2016 (3 months before I started this project), so I mustn't've been looking hard enough.
+- Conducting a content audit for a website that hasn't been updated in a while is its own can of worms. Its roadblocks may include an inability to take new high-resolution photos on short notice, or the delicate balancing act between brevity and necessity for large bodies of text.
 
 ### On the dev side
 
 - A lot of web templating languages are essentially the same&mdash;Liquid, which Jekyll uses, was easy to pick up after already knowing Angular.
-- Internet Explorer is very particular about the order in which Google Maps API resources are loaded.
-- DevTools' device emulator alone isn't enough to ensure that mobile views look the way you want them to.
+- Internet Explorer is more particular than other browsers about the order in which Google Maps API resources are loaded.
+- Chrome DevTools' device emulator alone isn't enough to ensure that mobile views look the way you want them to.
 
 ### Also
 
@@ -66,6 +107,6 @@ TODO import from notes
 ## What I would've done differently
 
 - Given that the majority of the site's users are on the older side, and therefore may need accessibility accommodations, I would've gone through the front-end and made sure that the site's content was compatible with screen readers.
-- User testing of initial designs, especialy with not-so-computer-literate people.
+- Better yet, I would've done some user testing at each design stage, especially with not-so-computer-literate people.
 
-You can see the site for yourself [here](https://capitaloto.com) and the source code [here](https://github.com/dawneraq/capitaloto).
+You can see CapitalOto.com for yourself [here](https://capitaloto.com) and the source code [here](https://github.com/dawneraq/capitaloto).
