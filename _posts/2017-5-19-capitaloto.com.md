@@ -108,5 +108,6 @@ The concept we ended up going with was to highlight the ear, nose, and throat of
 
 - Given that the majority of the site's users are on the older side, and therefore may need accessibility accommodations, I would've gone through the front-end and made sure that the site's content was compatible with screen readers.
 - Better yet, I would've done some user testing at each design stage, especially with not-so-computer-literate people.
+- Looking back three years later, I've noticed that CapitalOto.com hasn't changed at all. No announcements, no different doctors listed, nothing. This is likely due to the fact that despite writing the README as clearly and concisely as I could, installing and picking up a static site generator like Jekyll from scratch is hard. I chose that tool because I was already familiar with it after building my GitHub Pages homepage. And I rationalized that choice by assuming CapitalOto was always going to have a tech-savvy RPI student in a part-time IT role. Perhaps a more user-friendly technology like Squarespace would've helped ease the site handoff.
 
 You can see CapitalOto.com for yourself [here](https://capitaloto.com) and the source code [here](https://github.com/dawneraq/capitaloto).
