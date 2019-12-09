@@ -11,7 +11,8 @@ $newline: '\A';
 
 body {
 	font-family: 'Nunito Sans', sans-serif;
-	font-size: 9.5pt;
+	font-size: 10pt;
+	line-height: 1.4;
 	padding: 0.1in 0.25in 0.25in;
 }
 
@@ -19,7 +20,7 @@ section {
 	width: 100%;
 	display: inline-block;
 	vertical-align: top;
-	margin-bottom: 2em;
+	margin-bottom: 2.5em;
 
 	& > ul {
 		list-style-type: none;
