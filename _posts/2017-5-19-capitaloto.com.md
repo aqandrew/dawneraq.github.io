@@ -61,7 +61,7 @@ In general, there seem to be only two possible directions when it comes to a log
 
 CapitalOto was no exception to either rule. Pictured is one of their pre-2012 logos, printed on their stationery. 
 
-One logo idea put forth by the practice was a map of the Capital Region, with stars indicating the practice's three locations. That concept might given the wrong impression that Capital Region Otolaryngology *only* serves patients within that region&mdash;some patients reside in other areas like Vermont.
+One logo idea put forth by the practice was a map of the Capital Region, with stars indicating the practice's three locations. That concept might have given the wrong impression that Capital Region Otolaryngology *only* serves patients within that region&mdash;some patients reside in other areas like Vermont.
 
 ![some logo ideas](/assets/images/crog_logo_ideas.jpeg)
 
