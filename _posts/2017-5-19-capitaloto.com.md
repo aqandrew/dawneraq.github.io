@@ -12,7 +12,7 @@ Shortly before my first internship ended, a software architect under whom I work
 >
 >With websites it's more like, "Well I didn't build this, but I fixed a lot of bugs in it."
 
-## I got to break the mold last semester and rebuild an entire website for a client.
+## I got to break the mold and rebuild an entire website for a client.
 
 In January, I received a certain job alert from the wonderful CS Department Secretary Chris Coonrad: A local ear, nose, and throat practice was looking for (and willing to pay) "an undergraduate student, versed in website design, to help us update our current webpage".
 
@@ -111,3 +111,7 @@ The concept we ended up going with was to highlight the ear, nose, and throat of
 - Looking back three years later, I've noticed that CapitalOto.com hasn't changed at all. No announcements, no different doctors listed, nothing. This is likely due to the fact that despite writing the README as clearly and concisely as I could, installing and picking up a static site generator like Jekyll from scratch is hard. I chose that tool because I was already familiar with it after building my GitHub Pages homepage. And I rationalized that choice by assuming CapitalOto was always going to have a tech-savvy RPI student in a part-time IT role. Perhaps a more user-friendly technology like Squarespace would've helped ease the site handoff and maintainability.
 
 You can see CapitalOto.com for yourself [here](https://capitaloto.com) and the source code [here](https://github.com/dawneraq/capitaloto).
+
+## Want to see more of my UX design work?
+
+[Email me](mailto:{{ site.email }}) and I'll send you my portfolio.
