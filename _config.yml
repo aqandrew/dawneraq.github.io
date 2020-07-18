@@ -36,7 +36,7 @@ linkedin: dawneraq
 # spotify: 12169576475
 # instagram: aqandrew
 # flickr: dawneraq
-# twitter: aqandrew
+twitter: aqandrew
 # google: mygoogle
 # youtube: myyoutube
 # stackoverflow: 7044681/mystackoverflow
@@ -90,12 +90,11 @@ gems:
   - jekyll-gist
 
 jekyll-mentions:
-    base_url: https://github.com
+  base_url: https://github.com
 
 # Default Front Matter values
 defaults:
-  -
-    scope:
-      path: "posts"
+  - scope:
+      path: 'posts'
     values:
       external-image: false
