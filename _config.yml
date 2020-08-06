@@ -14,7 +14,7 @@ picture: https://gravatar.com/avatar/c2855f4a8d95ffa349a9a33a583639a6?size=280
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: assets/resume/Andrew Aquino Resume.pdf
+resume-url: assets/resume/Andrew-Aquino-Resume.pdf
 
 url: https://dawneraq.github.io
 
@@ -37,6 +37,7 @@ linkedin: dawneraq
 # instagram: aqandrew
 # flickr: dawneraq
 twitter: aqandrew
+codepen: dawneraq
 # google: mygoogle
 # youtube: myyoutube
 # stackoverflow: 7044681/mystackoverflow
